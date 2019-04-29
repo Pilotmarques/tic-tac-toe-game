@@ -1,0 +1,23 @@
+body {
+    height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: pink;
+}
+
+.square {
+    width: 250px;
+    height: 250px;
+    border: 3px solid purple
+    font-size: 60px
+}
+
+.board-container {
+    height: 100%;
+    width: 100%;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+
